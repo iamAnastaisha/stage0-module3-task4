@@ -9,5 +9,6 @@ public class SettingTypes {
          float fifth = 12.3F;
          byte sixth = 1;
          short seventh = 129;
+
     }
 }
